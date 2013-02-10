@@ -1,0 +1,9 @@
+{
+  "name": "HST Images",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "HST Images",
+  "chrome_url_overrides": {
+    "newtab": "newTab.html"
+  }
+}
