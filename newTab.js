@@ -3449,14 +3449,7 @@ var images = [
 ];
 
 var image = images[ Math.floor( Math.random() * images.length ) ]
-
 location.href = 'http://www.spacetelescope.org/static/archives/images/screen/' + image + '.jpg';
 
-// image = 'http://www.spacetelescope.org/static/archives/images/screen/' + image + '.jpg';
-
-var img = document.createElement('img');
-img.src = image;
-
-// document.getElementById('container').appendChild(img);
 
 
